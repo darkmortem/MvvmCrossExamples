@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8EADF357-81D7-426D-A64E-5EF83E635737}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvvmCross.iOS.Support.XamarinSidebarSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.45FD6FF4-2890-4C7A-90E4-1610578914A1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Sidebar/Setup.cs">
+    <Files>
+      <File FileName="IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Sidebar/AppDelegate.cs" Line="2" Column="17" />
+      <File FileName="IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Sidebar/Setup.cs" Line="4" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SlideView" expanded="True">
+            <Node name="MvvmCross.iOS.Support.XamarinSidebarSample.Core" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="MvvmCross.iOS.Support.XamarinSidebarSample.iOS" expanded="True" selected="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

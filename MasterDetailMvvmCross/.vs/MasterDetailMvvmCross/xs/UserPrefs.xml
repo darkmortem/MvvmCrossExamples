@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{2CF095F4-4206-47BF-8041-47D6D97F50D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Views/MenuViewController/MenuViewController.cs">
+    <Files>
+      <File FileName="iOS/Views/RootViewController/RootViewController.cs" Line="9" Column="23" />
+      <File FileName="iOS/Views/MenuViewController/MenuViewController.cs" Line="9" Column="27" />
+      <File FileName="iOS/Views/FirstViewController/FirstViewController.cs" Line="13" Column="10" />
+      <File FileName="MasterDetailMvvmCross/App.cs" Line="15" Column="55" />
+      <File FileName="MasterDetailMvvmCross/ViewModels/RootViewModel.cs" Line="27" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MasterDetailMvvmCross.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.45FD6FF4-2890-4C7A-90E4-1610578914A1">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MasterDetailMvvmCross.iOS>
+  <MonoDevelop.Ide.ItemProperties.MasterDetailMvvmCross.Droid FirstBuild="True" />
+</Properties>

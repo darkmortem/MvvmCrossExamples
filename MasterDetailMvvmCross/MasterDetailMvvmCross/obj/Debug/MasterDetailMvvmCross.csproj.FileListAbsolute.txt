@@ -1,0 +1,15 @@
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MasterDetailMvvmCross.dll
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MasterDetailMvvmCross.pdb
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Binding.dll
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Core.dll
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Localization.dll
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Platform.dll
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Platform.pdb
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Core.pdb
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Binding.pdb
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/bin/Debug/MvvmCross.Localization.pdb
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/obj/Debug/MasterDetailMvvmCross.csprojAssemblyReference.cache
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/obj/Debug/MasterDetailMvvmCross.csproj.CoreCompileInputs.cache
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/obj/Debug/MasterDetailMvvmCross.csproj.CopyComplete
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/obj/Debug/MasterDetailMvvmCross.dll
+/Users/mperez/Documents/GitHub/MvvmCross/MvvmCrossExamples/MasterDetailMvvmCross/MasterDetailMvvmCross/obj/Debug/MasterDetailMvvmCross.pdb

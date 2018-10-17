@@ -1,0 +1,12 @@
+/Users/mperez/Downloads/MvvmCross-develop2/Projects/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/obj/Debug/MvvmCross.iOS.Support.XamarinSidebarSample.Core.csproj.CoreCompileInputs.cache
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/bin/Debug/MvvmCross.iOS.Support.Core.dll
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/bin/Debug/MvvmCross.iOS.Support.Core.pdb
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/bin/Debug/MvvmCross.Core.dll
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/bin/Debug/MvvmCross.Platform.pdb
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/bin/Debug/MvvmCross.Core.pdb
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/obj/Debug/MvvmCross.iOS.Support.XamarinSidebarSample.Core.csprojAssemblyReference.cache
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/obj/Debug/MvvmCross.iOS.Support.XamarinSidebarSample.Core.csproj.CoreCompileInputs.cache
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/obj/Debug/MvvmCross.iOS.Support.XamarinSidebarSample.Core.csproj.CopyComplete
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/obj/Debug/MvvmCross.iOS.Support.Core.dll
+/Users/mperez/Projects/SlideView/IosSupport/XamarinSidebar/MvvmCross.iOS.Support.Core/obj/Debug/MvvmCross.iOS.Support.Core.pdb
