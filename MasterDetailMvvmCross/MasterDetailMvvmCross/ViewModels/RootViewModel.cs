@@ -17,14 +17,42 @@ namespace MasterDetailMvvmCross.ViewModels
         public override void ViewAppearing()
         {
             base.ViewAppearing();
-            MvxNotifyTask.Create( async () => await this.InitializeViewModel());
+          //  MvxNotifyTask.Create( async () => await this.InitializeViewModel());
         }
 
-        private async Task InitializeViewModel()
+     /*   private async Task InitializeViewModel()
         {
             await _navigationService.Navigate<MenuViewModel>();
             await _navigationService.Navigate<FirstViewModel>();
+        }*/
+
+        public IMvxCommand ShowMenuCommand
+        {
+            get
+            {
+                return new MvxCommand(ShowMenuCommandExecuted);
+            }
         }
+
+        public IMvxCommand ShowFirstViewCommand
+        {
+            get
+            {
+                return new MvxCommand(ShowFirstViewCommandExecuted);
+            }
+        }
+
+        private void ShowMenuCommandExecuted()
+        {
+            _navigationService.Navigate<MenuViewModel>();
+        }
+
+        private void ShowFirstViewCommandExecuted()
+        {
+            _navigationService.Navigate<FirstViewModel>();
+        }
+
+
 
     }
 }

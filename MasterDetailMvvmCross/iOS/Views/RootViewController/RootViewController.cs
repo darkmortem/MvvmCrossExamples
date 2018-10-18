@@ -1,5 +1,6 @@
 ﻿using System;
 using MasterDetailMvvmCross.ViewModels;
+using MvvmCross.Binding.BindingContext;
 using MvvmCross.iOS.Views;
 using MvvmCross.iOS.Views.Presenters.Attributes;
 using UIKit;
@@ -15,8 +16,13 @@ namespace MasterDetailMvvmCross.iOS.Views.RootViewController
 
         public override void ViewDidLoad()
         {
-            base.ViewDidLoad();
-            // Perform any additional setup after loading the view, typically from a nib.
+            base.ViewDidLoad();    
+
+            var bindingSet = this.CreateBindingSet<RootViewController, RootViewModel>();          
+            bindingSet.Bind(menuButton).To(vm => vm.ShowMenuCommand);
+            bindingSet.Bind(firstViewButton).To(vm => vm.ShowFirstViewCommand);
+            bindingSet.Apply();
+
         }
 
         public override void DidReceiveMemoryWarning()

@@ -6,6 +6,7 @@ using UIKit;
 
 namespace MasterDetailMvvmCross.iOS.Views.MenuViewController
 {
+    // [MvxModalPresentation(WrapInNavigationController = true, ModalPresentationStyle = UIModalPresentationStyle.BlurOverFullScreen)]
     [MvxChildPresentation]
     public partial class MenuViewController : MvxViewController<MenuViewModel>
     {
